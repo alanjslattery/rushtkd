@@ -84,7 +84,7 @@
       <div class="row">
         <div class="span12">
           <ul id="jMenu">
-            <li><a href="/" class="fNiv active">Home<br/>
+            <li><a href="/" class="fNiv ">Home<br/>
               <span class="smallText">- Welcome!</span>
             </a>
             </li>
@@ -98,7 +98,7 @@
             <li><a href="/gallery" class="fNiv ">Gallery<br/>
               <span class="smallText">- Our pictures</span></a>
             </li>
-            <li><a href="/home/links" class="fNiv ">Links<br/>
+            <li><a href="/home/links" class="fNiv active">Links<br/>
               <span class="smallText">- Useful sites</span>
             </a>
             </li>
@@ -123,163 +123,236 @@
 
 </header>
 
+<div class="row">
+  <div class="span12">
+    <h2>Links</h2>
+    <table class="links">
 
+      <!-- INTA -->
+      <tr>
+        <td class="link-image">
+          <a href="http://www.inta.ie">
+            <img src="/images/inta.jpg"/>
+          </a>
+        </td>
+        <td class="link">
+          <a href="http://www.inta.ie">
+            Irish National Taekwon-Do Association (INTA)
+          </a>
+        </td>
+      </tr>
 
-<div class="camera_wrap camera_magenta_skin" id="camera_wrap_2">
-    <div data-thumb="" data-src="images/camera-slider/slides/image1.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image2.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image3.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image4.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image5.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image6.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image7.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image8.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image9.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image10.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image11.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image12.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image13.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image14.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image15.jpg"></div>
+      <!-- AETF -->
+      <tr>
+        <td class="link-image">
+          <a href="http://www.itfeurope.org/">
+            <img src="/images/aetf.gif"/>
+          </a>
+        </td>
+        <td class="link">
+          <a href="http://www.itfeurope.org/">
+            All Europe Taekwon-Do Federation (AETF)
+          </a>
+        </td>
+      </tr>
+
+      <!-- ITF -->
+      <tr>
+        <td class="link-image">
+          <a href="http://www.tkd-itf.org/">
+            <img src="/images/itf.jpg"/>
+          </a>
+        </td>
+        <td class="link">
+          <a href="http://www.tkd-itf.org/">
+            International Taekwon-Do Federation (ITF)
+          </a>
+        </td>
+      </tr>
+
+      <!-- Beaumont -->
+      <tr>
+        <td class="link-image">
+          <a href="http://www.beaumonttaekwondocentre.com/">
+            <img src="/images/beaumont.png"/>
+          </a>
+        </td>
+        <td class="link">
+          <a href="http://www.beaumonttaekwondocentre.com/">
+            Beaumont Taekwondo Centre
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
-<!-- End CAMERA SLIDER -->
 
-<div class="clearfix"></div>
+
 
 <div class="row">
-    <!-- leftContent
-     ======================================================================================================-->
-    <div class="span8">
-        <div class="row">
+  <div class="span12">
+    <h2>Useful Videos</h2>
+    <table class="links">
 
-            <!-- Welcome -->
-            <div class="span8 welcome">
-                <h2>Welcome to Rush Taekwon-Do School Website</h2>
-                <p>
-                    Rush Taekwon-Do School is a community based club situated in Rush National School, Channel Road Rush.
-                    The club has separate adult and children classes which are suitable for men,
-                    women and children of all ages and fitness levels.
-                    Rush Taekwon-Do also has a Taekwon-Do Kids programme exclusively for children 4 to 6 years.
-                    Classes are ongoing and beginners are always welcome.
-                </p>
-                <p>
-                    Rush Taekwon-Do School are members of the Irish National Taekwon-Do Association (INTA) who are affiliated to
-                    the International Taekwon-Do federation (ITF) and the All European Taekwon-Do Association (AETF).
-                </p>
-                <p>
-                    This website will provide regular updated information in relation to Rush Taekwon-Do School including
-                    events, club news, INTA news, upcoming local, national and international events.
-                </p>
-                <p>
-                    All our instructors are ITF certified black belts, Garda vetted, First aid and Child protection
-                    certified.
-                    Please enjoy our website
-                </p>
-
-            </div>
-            <div class="clearfix"></div>
-
-
-            <div class="span4">
-                <h2>News!</h2>
-                <div class="row">
-                    <div class="span1" style="text-align: center;">
-                        <a href="https://www.facebook.com/pages/Rush-Taekwon-Do-School/1412133912340014">
-                        <img style="margin-left:10px;margin-top: 10px;width: 40px;" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Facebook_like_thumb.png/280px-Facebook_like_thumb.png">
-                            </a>
-                    </div>
-                    <div class="span3">
-                        We're now on Facebook!<br/> Check out the panel on the right, or <a href="https://www.facebook.com/pages/Rush-Taekwon-Do-School/1412133912340014">click here!</a>
-                    </div>
-                </div>
-                <br/>
-                Check out all our latest news <a href="/news">here</a>
-            </div>
-            <div class="span4">
-
-                <h2>Class Times</h2>
-                <table class="timetable">
-                    <tr>
-                        <td>
-                            Wednesday
-                        </td>
-                        <td>
-                            6:00 - 6:30
-                        </td>
-                        <td>
-                            TKD Kids
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        </td>
-                        <td>
-                            6:30 - 7:30
-                        </td>
-                        <td>
-                            TKD Juniors
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        </td>
-                        <td>
-                            7:30 - 8:30
-                        </td>
-                        <td>
-                            TKD Advanced - Seniors
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Friday
-                        </td>
-                        <td>
-                            6:30 - 7:30
-                        </td>
-                        <td>
-                            TKD Juniors
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        </td>
-                        <td>
-                            7:30 - 8:30
-                        </td>
-                        <td>
-                            TKD Advanced - Seniors
-                        </td>
-                    </tr>
-                </table>
-
-            </div>
-
-
-        </div>
-
-
-
-
-    </div>
-
-    <div class="span4" style="margin-top: 20px; margin-bottom: 20px;">
-        <div class="fb-like-box" data-href="https://www.facebook.com/pages/Rush-Taekwon-Do-School/1412133912340014" data-width="292" data-show-faces="true" data-header="true" data-stream="true" data-show-border="true"></div>
-    </div>
-
-
-
+          <!-- Chon-Ji by Jaroslaw Suska -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=gZvn0B4JSLg">
+                <img src="http://img.youtube.com/vi/gZvn0B4JSLg/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=gZvn0B4JSLg">
+                Chon-Ji by Jaroslaw Suska
+              </a>
+            </td>
+          </tr>
+          <!-- Dan-Gun by Jaroslaw Suska -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=MUBLmf0_fvY">
+                <img src="http://img.youtube.com/vi/MUBLmf0_fvY/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=MUBLmf0_fvY">
+                Dan-Gun by Jaroslaw Suska
+              </a>
+            </td>
+          </tr>
+          <!-- Do-San by Jaroslaw Suska -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=mqvr2EzSShg">
+                <img src="http://img.youtube.com/vi/mqvr2EzSShg/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=mqvr2EzSShg">
+                Do-San by Jaroslaw Suska
+              </a>
+            </td>
+          </tr>
+          <!-- Won-Hyo by Jaroslaw Suska -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=iPDis88FOtY">
+                <img src="http://img.youtube.com/vi/iPDis88FOtY/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=iPDis88FOtY">
+                Won-Hyo by Jaroslaw Suska
+              </a>
+            </td>
+          </tr>
+          <!-- Yul-Gok by Jaroslaw Suska -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=ulW93_Ndiyo">
+                <img src="http://img.youtube.com/vi/ulW93_Ndiyo/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=ulW93_Ndiyo">
+                Yul-Gok by Jaroslaw Suska
+              </a>
+            </td>
+          </tr>
+          <!-- Joong-Gun by Jaroslaw Suska -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=FJJX70IzTB0">
+                <img src="http://img.youtube.com/vi/FJJX70IzTB0/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=FJJX70IzTB0">
+                Joong-Gun by Jaroslaw Suska
+              </a>
+            </td>
+          </tr>
+          <!-- Toi-Gye by Jaroslaw Suska -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=9p0Wd7DeovM">
+                <img src="http://img.youtube.com/vi/9p0Wd7DeovM/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=9p0Wd7DeovM">
+                Toi-Gye by Jaroslaw Suska
+              </a>
+            </td>
+          </tr>
+          <!-- Hwa Rang by Jaroslaw Suska -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=NU2RT1BYSG8">
+                <img src="http://img.youtube.com/vi/NU2RT1BYSG8/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=NU2RT1BYSG8">
+                Hwa Rang by Jaroslaw Suska
+              </a>
+            </td>
+          </tr>
+          <!-- Choong-Moo by Jaroslaw Suska -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=x8uOcpufwyQ">
+                <img src="http://img.youtube.com/vi/x8uOcpufwyQ/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=x8uOcpufwyQ">
+                Choong-Moo by Jaroslaw Suska
+              </a>
+            </td>
+          </tr>
+          <!-- 3-Step (1-4) by Kildare TKD -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=fmpRpVd4EPs">
+                <img src="http://img.youtube.com/vi/fmpRpVd4EPs/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=fmpRpVd4EPs">
+                3-Step (1-4) by Kildare TKD
+              </a>
+            </td>
+          </tr>
+          <!-- 3-Step (5-9) by Kildare TKD -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=EoK2IJS9Wwo">
+                <img src="http://img.youtube.com/vi/EoK2IJS9Wwo/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=EoK2IJS9Wwo">
+                3-Step (5-9) by Kildare TKD
+              </a>
+            </td>
+          </tr>
+          <!-- 2 Step (1-7) by Kildare TKD -->
+          <tr>
+            <td class="link-image">
+              <a href="https://www.youtube.com/watch?v=etApgxsDt8s">
+                <img src="http://img.youtube.com/vi/etApgxsDt8s/mqdefault.jpg"/>
+              </a>
+            </td>
+            <td class="link">
+              <a href="https://www.youtube.com/watch?v=etApgxsDt8s">
+                2 Step (1-7) by Kildare TKD
+              </a>
+            </td>
+          </tr>
+    </table>
+  </div>
 </div>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=279278035485505";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
 
 <!-- Footer
 
@@ -375,18 +448,6 @@
 <script src="/javascripts/audio.min.js"></script>
 <!-- audio player -->
 <script src="/javascripts/prettify.js"></script>
-<script src="/javascripts/camera.min.js"></script><!-- Camera slider -->
-<!-- YOU CAN REMOVE IT // it's associated with shortcodes preview boxes -->
-<script>
-    jQuery(function(){
-        jQuery('#camera_wrap_2').camera({
-            height: '300px',
-            loader: 'bar',
-            pagination: false,
-            thumbnails: false
-        });
-    });
-</script>
 
 <script src="/javascripts/custom.js"></script>
 <!-- All scripts that shuold be on html file collected here -->

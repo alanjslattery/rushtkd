@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]>
+<html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>
+<html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>
+<html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>
+<html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en"> <!--<![endif]-->
+<head>
+
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+  <title>Rush Tae Kwon-Do</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- fav and touch icons
+  ======================================================================================-->
+  <link rel="shortcut icon" href="/images/favicon/favicon.ico">
+  <link rel="apple-touch-icon" href="/images/favicon/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-touch-icon-114x114.png">
+
+  <!-- Start CSS Style
+  =======================================================================================-->
+  <link rel="stylesheet" href="/stylesheets/style.css"/>
+  <!-- Main Style -->
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="/stylesheets/fontawesome/font-awesome-ie7.css"/>
+  <![endif]-->
+  <!-- Color Skins -->
+  <link rel="stylesheet" href="/stylesheets/skins/blue.css" name="skins">
+  <!-- Layout Style -->
+  <link rel="stylesheet" href="/stylesheets/layout/wide.css" name="layout">
+  <!-- Style Switcher Box -->
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+</head>
+
+<body onload="prettyPrint()">
+<div id="wrap" class="boxed">
+
+<div class="container">
+
+<!-- Header
+=========================================================================================================== -->
+<header>
+
+  <!-- Logo -->
+  <div class="logoWrapper">
+    <div class="row">
+        <img class="rush-logo" src="/images/rush_tkd.jpg"/>
+        <span class="centered logo">
+          <a href="index.html">RUSH TAE KWON-DO</a>
+        </span>
+        <img class="inta-logo" src="/images/inta.jpg"/>
+      <!--
+      <table width="100%" cellpadding="10">
+        <tr>
+          <td width="25%" align="center" style="vertical-align: top;">
+            <img width="80%" src="/images/rush_tkd.jpg"/>
+          </td>
+          <td width="50%" style="vertical-align: top">
+            <div class="centered logo">
+              <a href="index.html">RUSH TAE KWON-DO</a>
+            </div>
+          </td>
+          <td width="25%" align="center" style="vertical-align: middle;">
+            <img width="80%" src="/images/inta.jpg"/>
+          </td>
+        </tr>
+      </table>
+      -->
+    </div>
+
+    <nav class="container menu">
+      <div class="row">
+        <div class="span12">
+          <ul id="jMenu">
+            <li><a href="/" class="fNiv ">Home<br/>
+              <span class="smallText">- Welcome!</span>
+            </a>
+            </li>
+                <li><a href="/home/calendar" class="fNiv ">Calendar<br/>
+              <span class="smallText">- Upcoming Events</span>
+            </a>
+            </li>
+            <li><a href="/news" class="fNiv ">News<br/>
+              <span class="smallText">- Our updates</span></a>
+            </li>
+            <li><a href="/gallery" class="fNiv ">Gallery<br/>
+              <span class="smallText">- Our pictures</span></a>
+            </li>
+            <li><a href="/home/links" class="fNiv ">Links<br/>
+              <span class="smallText">- Useful sites</span>
+            </a>
+            </li>
+            <li><a href="/home/history" class="fNiv ">History<br/>
+              <span class="smallText">- The story so far</span></a>
+            </li>
+            <li><a href="/home/bios" class="fNiv active">Instructors<br/>
+              <span class="smallText">- Find out about us</span></a>
+            </li>
+
+            <li><a href="/home/blackbelts" class="fNiv  last">Black Belts<br/>
+              <span class="smallText">- Black Belts</span></a></li>
+
+          </ul>
+        </div>
+      </div>
+      <!--/row-->
+    </nav>
+    <!--/MENU-->
+  </div>
+  <!--/logoWrapper-->
+
+</header>
+
+<div class="row">
+
+    <div class="span6">
+        <div style="width: 100%; text-align: center">
+            <img src="/images/ann.png" style="height: 150px; padding: 5px; border: 1px solid #ddd;">
+        </div>
+        <h2>Instructor Profile for Ann McCarthy</h2>
+        <table class="timetable">
+            <tr>
+                <td>1987</td>
+                <td>Commenced training with Master Brendan O Toole & Mr Gerry Martin</td>
+            </tr>
+            <tr>
+                <td>1992</td>
+                <td>Received 1st Degree Black Belt (IRE-1-219) under Master O’Toole & Mr Martin</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>TKD-Sport ITF Scotland Senior H/W Sparring 1st, Team Sparring 1st</td>
+            </tr>
+
+            <tr>
+                <td>1993</td>
+                <td>Dublin Taekwon-Do Championships Senior H/W Sparring 1st</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>South Eastern Championships Senior H/W Sparring 1st</td>
+            </tr>
+
+            <tr>
+                <td>1994</td>
+                <td>9th European Championships (Lublin, Poland) Individual Female Power 2nd</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>ITF Belgium Open Sparring Senior H/W Sparring 2nd</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Dublin TKD Championships Senior H/W Sparring 1st</td>
+            </tr>
+
+            <tr>
+                <td>1995</td>
+                <td>Completed International Seminar with General Choi Hong Hi (Dublin)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Participated in 10th European TKD Championships (Cologne, Germany)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Received 2nd Degree Black Belt (IRE-2-110) under Master O’Toole & Mr Martin</td>
+            </tr>
+
+            <tr>
+                <td>1996</td>
+                <td>11th European Championships (Riccione, Italy) Senior H/W Sparring 3rd</td>
+            </tr>
+
+            <tr>
+                <td>1997</td>
+                <td>Co-founded North Circular Taekwon-Do Club</td>
+            </tr>
+
+            <tr>
+                <td>1999</td>
+                <td>Attended seminar (Dublin) with General Choi and Master Rhee Ki Ha</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>1st INTA Open Senior H/W Sparring 1st & 2nd Degree Patterns 3rd</td>
+            </tr>
+
+            <tr>
+                <td>2004</td>
+                <td>1st TKD World Cup (Orlando, Florida) Senior O/35 H/W Sparring 1st</td>
+            </tr>
+
+            <tr>
+                <td>2005</td>
+                <td>20th European Championships (Terracina, Italy) Senior H/W Sparring 3rd</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Female Team Power Test 3rd</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Completed IIC With ITF Technical Committee (Dublin)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Participated 14th World TKD Championships (Dortmund, Germany)</td>
+            </tr>
+
+            <tr>
+                <td>2006</td>
+                <td>Completed INTA National Umpire Course</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended Child Protection in Sport Awareness Course with the Irish Sports Council</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>ITF Portugal Open Senior H/W Sparring 1st</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Participated in IIC with ITF Technical Committee (Cologne, Germany)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Battle At the Boardwalk (Atlantic City, USA) Senior H/W Sparring 1st</td>
+            </tr>
+
+            <tr>
+                <td>2007</td>
+                <td>Co- Founded Rush Taekwon-Do School ITF Instructors Plague Number 8031</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Completed Child Protection in Sport Awareness Course with the Irish Sports Council</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended INTA Technical Seminar</td>
+            </tr>
+
+            <tr>
+                <td>2008</td>
+                <td>Completed INTA National Umpire Course</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended INTA Technical Seminar</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Completed Emergency Skills Training Course with Fingal County Council</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Completed IIC With ITF Technical Committee (Dublin)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended USTF World TKD Training Camp (Colorado, USA)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Received 3rd Degree Black Belt (IRE-3-109) under Master O’Toole, Douglas & Mr Martin</td>
+            </tr>
+
+            <tr>
+                <td>2009</td>
+                <td>Attended Child Protection in Sport Awareness Course with the Irish Sports Council</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Participated in Emergency Skills Training Course with Fingal County Council</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Completed Children’s Officer Workshop with the Irish Sports Council</td>
+            </tr>
+
+            <tr>
+                <td>2010</td>
+                <td>Attended USTF World TKD Training Camp (Colorado, USA)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Completed IIC with ITF Technical Committee (Utrecht, Netherlands)</td>
+            </tr>
+
+            <tr>
+                <td>2011</td>
+                <td>Awarded 4th Degree Black Belt (IRE-4-72) under Master O’Toole, Douglas & Martin</td>
+            </tr>
+
+            <tr>
+                <td>2012</td>
+                <td>Received ITF International Instructors Certificate Number 2223</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Completed an Emergency Response First Aid Course</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended TKD Kids Instructors Course Benidorm Spain</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="span6">
+    <div style="width: 100%; text-align: center">
+        <img src="/images/lucia.png" style="height: 150px; padding: 5px; border: 1px solid #ddd;">
+    </div>
+
+    <h2>Instructor Profile for Lucia McCarthy</h2>
+        <table class="timetable">
+            <tr>
+                <td>1987</td>
+                <td>Commenced training with Master Brendan O Toole & Mr Gerry Martin</td>
+            </tr>
+            <tr>
+                <td>1989</td>
+                <td>Received National Certificate in Exercise & Fitness Instruction (NCEF)</td>
+            </tr>
+            <tr>
+                <td>1993</td>
+                <td>Received 1st Degree Black Belt (IRE-1-207) under Master O Toole & Mr Gerry Martin</td>
+            </tr>
+            <tr>
+                <td>1994</td>
+                <td>ITF Belgium Open Senior H/W Sparring 3rd</td>
+            </tr>
+            <tr>
+                <td>1995</td>
+                <td>Completed International Seminar with Grandmaster Choi Hong Hi (Dublin)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Participated 10th European Championships Cologne Germany</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Received 2nd Degree Black Belt (IRE-2-111) under Master O Toole & Mr Martin</td>
+            </tr>
+            <tr>
+                <td>1997</td>
+                <td>Co-Founded North Circular Rd Taekwon-Do Club</td>
+            </tr>
+            <tr>
+                <td>1999</td>
+                <td>Attended Seminar (Dublin) with Grandmaster Choi Hong Hi & Master Rhee Ki Ha</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>1st INTA Open Senior H/W Sparring 2nd</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>1st INTA Open Power (Hand technique) 1st Power (Foot Technique) 1st</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Participated 14th European Championships (Riccione Italy) Female H/W Sparring 3rd</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Individual Female Power Test 3rd</td>
+            </tr>
+            <tr>
+                <td>2002</td><td>Received Certificate in Injury Management & Fitness in Sport from the National University of
+                    Ireland
+                </td>
+            </tr>
+            <tr>
+                <td>2003</td>
+                <td>Completed SAQ Conditioning Course</td>
+            </tr>
+            <tr>
+                <td>2004</td>
+                <td>Completed SAQ Level 1 Course</td>
+            </tr>
+            <tr>
+                <td>2005</td>
+                <td>Participated 20th European Championships (Terracina Italy) Female Team Power Test 3rd</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Received Certificate in Occupational First Aid from the Irish Red Cross</td>
+            </tr>
+            <tr>
+                <td>2006</td>
+                <td>Completed INTA National Umpire Course</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Participated IIC with the ITF Technical Committee Cologne Germany</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>2nd World Cup (Benidorm Spain) Senior (O/35) H/W Sparring 1st</td>
+            </tr>
+            <tr>
+                <td>2007</td>
+                <td>Co-Founded Rush Taekwon-Do School ITF Instructors Plaque Number 8097</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended Child Protection in Sport Awareness Workshop conducted by Irish Sports Council at the Royal
+                    College of Surgeons
+                </td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended INTA Technical Seminar</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Received 3rd Degree Black Belt (IRE-3-104) under Master O'Toole, Master Douglas & Mr Martin</td>
+            </tr>
+            <tr>
+                <td>2008</td>
+                <td>Completed INTA National Umpire Course</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended INTA Technical Seminar</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended Emergency Skills Training Course conducted by Fingal County Council</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Participated IIC with the ITF Technical Committee (Dublin)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended USTF World Taekwon-Do Training Camp (Colorado USA)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Appointed onto the Board of the INTA</td>
+            </tr>
+            <tr>
+                <td>2009</td>
+                <td>Attended Child Protection in Sport Awareness Workshop conducted by the Irish Sports Council</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended Children’s Officer Workshop conducted by the Irish Sports Council</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Received Certificate in Exercise & Health Fitness (CEHF) from University of Limerick</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Received Fetac Level 5 Award for Occupational First Aid</td>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td>Participated IIC with the ITF Technical Committee (Utrecht Netherlands)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended Children’s Officer Workshop conducted by the Irish Sports Council</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Awarded Fetac Level 5 Award for Occupational First Aid</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended USTF World Taekwon-Do Training Camp (Colorado USA)</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Re-Appointed onto the Board of the INTA</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Appointed National Children’s Officer for the INTA</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Appointed National Membership Officer for the INTA</td>
+            </tr>
+            <tr>
+                <td>2011</td>
+                <td>Attended INTA Technical Seminar</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Completed INTA National Umpire Course</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Received Fetac Level 5 Award for Occupational First Aid</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Passed 4th Degree Black Belt (IRE-4-73) under Master O'Toole, Douglas & Martin</td>
+            </tr>
+
+            <tr>
+                <td>2012</td>
+                <td>Completed an Emergency Response First Aid Course</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Attended TKD Kids Instructors Course Benidorm Spain June 2012</td>
+            </tr>
+            <tr>
+                <td></td>
+                <td>Received ITF International Instructors Certificate Number 2222</td>
+            </tr>
+        </table>
+    </div>
+</div>
+        <div class="row">
+            <div class="span12">
+                <br/>
+                <br/>
+            </div>
+        </div>
+
+
+<!-- Footer
+
+============================================================================================================= -->
+  <div class="row">
+<div class="container darkBg">
+  <footer>
+    <div id="mainFooter">
+      <div class="row">
+
+        <div class="span8">
+          <!-- About Us -->
+          <h4>About Rush Tae Kwon-Do</h4>
+
+          <p>
+            Rush Tae Kwon-Do was established in 2007 by Ms Lucia McCarthy (4th Degree) and Ms Ann McCarthy (4th Degree)
+          </p>
+          <p>
+            All our instructors are fully certified Blackbelts, International Instructors, Garda Vetted, certified in First Aid and Child Protection
+          </p>
+        </div>
+
+
+        <!-- subscribe -->
+        <div class="span4">
+          <div class="clearfix"></div>
+          <!-- Contacts -->
+          <h4>Contact Us</h4>
+          <address>
+            <i class="icon-tint"></i>
+            <!--<a href="https://maps.google.com/maps?q=53.521734,-6.08853&z=18&ll=53.521734,-6.08853">Rush National School, Channel Road Rush</a><br>-->
+            <a href="https://www.google.ie/maps/place/Rush+Boys+National+School,+Channel+Rd,+Rush,+Co.+Dublin/@53.5206664,-6.1043308,15z/data=!4m2!3m1!1s0x4867193eb153c137:0xfd0be97bfedbcb03">Rush National School, Channel Road Rush</a><br>
+            <i class="icon-phone"></i> 086-0780242<br>
+            <i class="icon-envelope-alt"></i> <a href="mailto:mccarthylucia@hotmail.com">mccarthylucia@hotmail.com</a>
+          </address>
+        </div>
+      </div>
+
+
+      <!-- Copy rights + subscribtion area -->
+      <div class="row bord-top">
+        <div class="span6 copyrights">
+
+        </div>
+<!--
+        <div class="span6">
+          <ul class="footer-social tooltip-title">
+            <li><a href="#" rel="tooltip" title="facebook"><i class="icon-facebook-sign"></i></a></li>
+            <li><a href="#" rel="tooltip" title="twitter"><i class="icon-twitter-sign"></i></a></li>
+            <li><a href="#" rel="tooltip" title="google plus"><i class="icon-google-plus-sign"></i></a></li>
+            <li><a href="#" rel="tooltip" title="piterest"><i class="icon-pinterest-sign"></i></a></li>
+            <li><a href="#" rel="tooltip" title="linked in"><i class="icon-linkedin-sign"></i></a></li>
+          </ul>
+        </div>
+-->
+      </div>
+
+    </div>
+    <!--/mainFooter-->
+  </footer>
+</div>
+  </div>
+
+<!-- javascript
+============================================================================================================= -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="/javascripts/jquery.js"></script>
+<!-- Main JQuery -->
+<script src="/javascripts/bootstrap.js"></script>
+<!-- Bootstrap Js main file -->
+<script src="/javascripts/jquery.easing.1.3.js"></script>
+<!-- easing.1.3 -->
+<script src="/javascripts/jquery.cookie.js"></script>
+<!-- cookie -->
+<script src="/javascripts/jquery-ui-1.8.20.custom.min.js"></script>
+<!-- jquery-ui -->
+<script src="/javascripts/responsive-menu.js"></script><!-- Responsive menu -->
+<script src="/javascripts/jMenu.jquery.js"></script><!-- Nav menu -->
+<script defer src="/javascripts/jquery.flexslider.js"></script>
+<!-- Flex Basic carousel -->
+<script src="/javascripts/jquery.prettyPhoto.js"></script>
+<!-- PrettyPhoto -->
+<script src="/javascripts/jquery.liquid-slider-0.1.js"></script>
+<!-- Testimonials - text slider -->
+<script src="/javascripts/jquery.tweet.js"></script>
+<!-- Twitter plugin -->
+<script src="/javascripts/jflickrfeed.min.js"></script>
+<!-- jQuery Flickr -->
+<script src="/javascripts/jquery.ui.totop.js"></script>
+<!-- Go to top -->
+<script src="/javascripts/filterable.pack.js"></script>
+<!-- Filter portfolio -->
+<script src="/javascripts/audio.min.js"></script>
+<!-- audio player -->
+<script src="/javascripts/prettify.js"></script>
+
+<script src="/javascripts/custom.js"></script>
+<!-- All scripts that shuold be on html file collected here -->
+<!-- Under construction js -->
+</div>
+</div>
+
+</body>
+</html>

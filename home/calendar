@@ -84,11 +84,11 @@
       <div class="row">
         <div class="span12">
           <ul id="jMenu">
-            <li><a href="/" class="fNiv active">Home<br/>
+            <li><a href="/" class="fNiv ">Home<br/>
               <span class="smallText">- Welcome!</span>
             </a>
             </li>
-                <li><a href="/home/calendar" class="fNiv ">Calendar<br/>
+                <li><a href="/home/calendar" class="fNiv active">Calendar<br/>
               <span class="smallText">- Upcoming Events</span>
             </a>
             </li>
@@ -123,162 +123,151 @@
 
 </header>
 
-
-
-<div class="camera_wrap camera_magenta_skin" id="camera_wrap_2">
-    <div data-thumb="" data-src="images/camera-slider/slides/image1.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image2.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image3.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image4.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image5.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image6.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image7.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image8.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image9.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image10.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image11.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image12.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image13.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image14.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image15.jpg"></div>
-</div>
-<!-- End CAMERA SLIDER -->
-
-<div class="clearfix"></div>
-
 <div class="row">
-    <!-- leftContent
-     ======================================================================================================-->
-    <div class="span8">
-        <div class="row">
 
-            <!-- Welcome -->
-            <div class="span8 welcome">
-                <h2>Welcome to Rush Taekwon-Do School Website</h2>
-                <p>
-                    Rush Taekwon-Do School is a community based club situated in Rush National School, Channel Road Rush.
-                    The club has separate adult and children classes which are suitable for men,
-                    women and children of all ages and fitness levels.
-                    Rush Taekwon-Do also has a Taekwon-Do Kids programme exclusively for children 4 to 6 years.
-                    Classes are ongoing and beginners are always welcome.
-                </p>
-                <p>
-                    Rush Taekwon-Do School are members of the Irish National Taekwon-Do Association (INTA) who are affiliated to
-                    the International Taekwon-Do federation (ITF) and the All European Taekwon-Do Association (AETF).
-                </p>
-                <p>
-                    This website will provide regular updated information in relation to Rush Taekwon-Do School including
-                    events, club news, INTA news, upcoming local, national and international events.
-                </p>
-                <p>
-                    All our instructors are ITF certified black belts, Garda vetted, First aid and Child protection
-                    certified.
-                    Please enjoy our website
-                </p>
-
-            </div>
-            <div class="clearfix"></div>
-
-
-            <div class="span4">
-                <h2>News!</h2>
-                <div class="row">
-                    <div class="span1" style="text-align: center;">
-                        <a href="https://www.facebook.com/pages/Rush-Taekwon-Do-School/1412133912340014">
-                        <img style="margin-left:10px;margin-top: 10px;width: 40px;" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Facebook_like_thumb.png/280px-Facebook_like_thumb.png">
-                            </a>
-                    </div>
-                    <div class="span3">
-                        We're now on Facebook!<br/> Check out the panel on the right, or <a href="https://www.facebook.com/pages/Rush-Taekwon-Do-School/1412133912340014">click here!</a>
-                    </div>
-                </div>
-                <br/>
-                Check out all our latest news <a href="/news">here</a>
-            </div>
-            <div class="span4">
-
-                <h2>Class Times</h2>
-                <table class="timetable">
-                    <tr>
-                        <td>
-                            Wednesday
-                        </td>
-                        <td>
-                            6:00 - 6:30
-                        </td>
-                        <td>
-                            TKD Kids
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        </td>
-                        <td>
-                            6:30 - 7:30
-                        </td>
-                        <td>
-                            TKD Juniors
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        </td>
-                        <td>
-                            7:30 - 8:30
-                        </td>
-                        <td>
-                            TKD Advanced - Seniors
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Friday
-                        </td>
-                        <td>
-                            6:30 - 7:30
-                        </td>
-                        <td>
-                            TKD Juniors
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        </td>
-                        <td>
-                            7:30 - 8:30
-                        </td>
-                        <td>
-                            TKD Advanced - Seniors
-                        </td>
-                    </tr>
-                </table>
-
-            </div>
-
-
-        </div>
-
-
-
-
+    <!--
+<div class="span11">
+<h2>Upcoming Events 2014</h2>
+<table id="calendar">
+    <tr><td class="calendar_date">
+        Jan 7th</td><td>All classes resume after the Christmas break
+    </td></tr>
+    <tr><td class="calendar_date">
+        Jan 25th</td><td>Firhouse Invitational Tournament (Dublin).
+    </td></tr>
+    <tr><td class="calendar_date">
+        Feb 1st/2nd</td><td>INTA Instructors & Technical Seminar (Dublin)
+    </td></tr>
+    <tr><td class="calendar_date">
+        Feb 8th/9th</td><td>INTA National Umpires Course (Cork)
+    </td></tr>
+    <tr><td class="calendar_date">
+        Mar 1st/2nd</td><td>INTA International Open 2014 (Kilkenny)
+    </td></tr>
+    <tr><td class="calendar_date">
+        Mar 28th</td><td>Rush Spring Grade
+    </td></tr>
+    <tr><td class="calendar_date">
+        May 17th</td><td>3rd INTA Junior Sparring Challenge (Dublin)
+    </td></tr>
+    <tr><td class="calendar_date">
+        May 23rd/24th/25th</td><td>International Instructors Course (Dublin)
+    </td></tr>
+    <tr><td class="calendar_date">
+        May 27th</td><td>Rush Club Championships
+    </td></tr>
+    <tr><td class="calendar_date">
+        June 3rd</td><td>Master Class with Master O’Toole
+    </td></tr>
+    <tr><td class="calendar_date">
+        June</td><td>INTA Summer Black Belt Grading
+    </td></tr>
+    <tr><td class="calendar_date">
+        June 13th</td><td>Rush Summer Grade
+    </td></tr>
+    <tr><td class="calendar_date">
+        June 22nd/29th</td><td>USTF World Camp (Rocky Mountains, Colorado)
+    </td></tr>
+    <tr><td class="calendar_date">
+        July 18th</td><td>Rush Fight Night
+    </td></tr>
+    <tr><td class="calendar_date">
+        July 25th</td><td>Last class before the Summer Holidays
+    </td></tr>
+    <tr><td class="calendar_date">
+        September 2nd</td><td>All Classes resume
+    </td></tr>
+            <tr><td class="calendar_date">
+            September 2nd</td><td>All Classes resume
+            </td></tr>
+            <tr><td class="calendar_date">
+            October 4th/5th</td><td>INTA National Umpire Course (Portarlington)
+            </td></tr>
+            <tr><td class="calendar_date">
+            October 18th </td><td>INTA National Championships (Kilkenny)
+            </td></tr>
+            <tr><td class="calendar_date">
+            October 22nd </td><td>All Classes changed to Rush National School
+            </td></tr>
+            <tr><td class="calendar_date">
+            October 31st</td><td>No Classes (Halloween)
+            </td></tr>
+            <tr><td class="calendar_date">
+            November 8th/9th</td><td>INTA Instructors & Technical Course (Cork)
+            </td></tr>
+            <tr><td class="calendar_date">
+            November 15th</td><td>Rush TKD host classes for Remember Us (Balbriggan)
+            </td></tr>
+            <tr><td class="calendar_date">
+            December 6th </td><td>INTA Winter Black Belt Grading (Tipperary)
+            </td></tr>
+            <tr><td class="calendar_date">
+            December 10th</td><td>TKD Kids Grade / TKD Junior Grade
+            </td></tr>
+            <tr><td class="calendar_date">
+            December 12th</td><td>Winter Club Grading with Master O’Toole
+            </td></tr>
+            <tr><td class="calendar_date">
+            December 17th </td><td>Christmas Party & close for the Holidays
+            </td></tr>
+            <tr><td colspan="2">
+                (Some dates may be subject to change)
+            </td></tr>
+        </table>
     </div>
+    -->
 
-    <div class="span4" style="margin-top: 20px; margin-bottom: 20px;">
-        <div class="fb-like-box" data-href="https://www.facebook.com/pages/Rush-Taekwon-Do-School/1412133912340014" data-width="292" data-show-faces="true" data-header="true" data-stream="true" data-show-border="true"></div>
+    <div class="span11">
+        <h2>Upcoming Events 2015</h2>
+        <table id="calendar">
+            <tr><td class="calendar_date">
+            September 5th/6th </td><td>INTA National Umpire Course (Portarlington)
+            </td></tr>
+            <tr><td class="calendar_date">
+            September 9th </td><td>All Classes resume
+            </td></tr>
+            <tr><td class="calendar_date">
+            October 3rd </td><td>INTA's National Championships (Basketball Arena, Dublin)
+            </td></tr>
+            <tr><td class="calendar_date">
+            October 23rd</td><td>Master Class with Master Gerry Martin
+            </td></tr>
+            <tr><td class="calendar_date">
+            November 11th</td><td>Master Class with Master Brendan O’Toole
+            </td></tr>
+            <tr><td class="calendar_date">
+            December 5th</td><td>INTA Black Belt Grading (Tipperary)
+            </td></tr>
+            <tr><td class="calendar_date">
+            December 6th</td><td>INTA AGM (Tipperary)
+            </td></tr>
+            <tr><td class="calendar_date">
+            December 9th</td><td>Rush's TKD Kids &amp; Junior TKD Grades
+            </td></tr>
+            <tr><td class="calendar_date">
+            December 11th</td><td>Rush's Winter Grade
+            </td></tr>
+            <tr><td class="calendar_date">
+              December 18th</td><td>Last class for 2015 (Christmas Party)
+            </td></tr>
+            <tr><td colspan="2">
+            <h2>Upcoming Events 2016</h2>
+          </td>
+        </tr>
+            <tr><td class="calendar_date">
+            January 6th </td><td>All Classes Resume
+            </td></tr>
+            <tr><td class="calendar_date">
+              February 6th/7th</td><td>INTA's International Open (Dublin)
+            </td></tr>
+            <tr><td colspan="2">
+                (Some dates may be subject to change)
+            </td></tr>
+
+        </table>
     </div>
-
-
-
+-->
 </div>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=279278035485505";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 
 <!-- Footer
@@ -375,18 +364,6 @@
 <script src="/javascripts/audio.min.js"></script>
 <!-- audio player -->
 <script src="/javascripts/prettify.js"></script>
-<script src="/javascripts/camera.min.js"></script><!-- Camera slider -->
-<!-- YOU CAN REMOVE IT // it's associated with shortcodes preview boxes -->
-<script>
-    jQuery(function(){
-        jQuery('#camera_wrap_2').camera({
-            height: '300px',
-            loader: 'bar',
-            pagination: false,
-            thumbnails: false
-        });
-    });
-</script>
 
 <script src="/javascripts/custom.js"></script>
 <!-- All scripts that shuold be on html file collected here -->

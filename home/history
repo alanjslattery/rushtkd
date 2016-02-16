@@ -84,7 +84,7 @@
       <div class="row">
         <div class="span12">
           <ul id="jMenu">
-            <li><a href="/" class="fNiv active">Home<br/>
+            <li><a href="/" class="fNiv ">Home<br/>
               <span class="smallText">- Welcome!</span>
             </a>
             </li>
@@ -102,7 +102,7 @@
               <span class="smallText">- Useful sites</span>
             </a>
             </li>
-            <li><a href="/home/history" class="fNiv ">History<br/>
+            <li><a href="/home/history" class="fNiv active">History<br/>
               <span class="smallText">- The story so far</span></a>
             </li>
             <li><a href="/home/bios" class="fNiv ">Instructors<br/>
@@ -124,162 +124,28 @@
 </header>
 
 
-
-<div class="camera_wrap camera_magenta_skin" id="camera_wrap_2">
-    <div data-thumb="" data-src="images/camera-slider/slides/image1.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image2.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image3.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image4.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image5.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image6.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image7.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image8.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image9.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image10.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image11.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image12.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image13.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image14.jpg"></div>
-    <div data-thumb="" data-src="images/camera-slider/slides/image15.jpg"></div>
-</div>
-<!-- End CAMERA SLIDER -->
-
-<div class="clearfix"></div>
+<h2>Early Days in Rush</h2>
 
 <div class="row">
-    <!-- leftContent
-     ======================================================================================================-->
-    <div class="span8">
-        <div class="row">
-
-            <!-- Welcome -->
-            <div class="span8 welcome">
-                <h2>Welcome to Rush Taekwon-Do School Website</h2>
-                <p>
-                    Rush Taekwon-Do School is a community based club situated in Rush National School, Channel Road Rush.
-                    The club has separate adult and children classes which are suitable for men,
-                    women and children of all ages and fitness levels.
-                    Rush Taekwon-Do also has a Taekwon-Do Kids programme exclusively for children 4 to 6 years.
-                    Classes are ongoing and beginners are always welcome.
-                </p>
-                <p>
-                    Rush Taekwon-Do School are members of the Irish National Taekwon-Do Association (INTA) who are affiliated to
-                    the International Taekwon-Do federation (ITF) and the All European Taekwon-Do Association (AETF).
-                </p>
-                <p>
-                    This website will provide regular updated information in relation to Rush Taekwon-Do School including
-                    events, club news, INTA news, upcoming local, national and international events.
-                </p>
-                <p>
-                    All our instructors are ITF certified black belts, Garda vetted, First aid and Child protection
-                    certified.
-                    Please enjoy our website
-                </p>
-
-            </div>
-            <div class="clearfix"></div>
-
-
-            <div class="span4">
-                <h2>News!</h2>
-                <div class="row">
-                    <div class="span1" style="text-align: center;">
-                        <a href="https://www.facebook.com/pages/Rush-Taekwon-Do-School/1412133912340014">
-                        <img style="margin-left:10px;margin-top: 10px;width: 40px;" src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Facebook_like_thumb.png/280px-Facebook_like_thumb.png">
-                            </a>
-                    </div>
-                    <div class="span3">
-                        We're now on Facebook!<br/> Check out the panel on the right, or <a href="https://www.facebook.com/pages/Rush-Taekwon-Do-School/1412133912340014">click here!</a>
-                    </div>
-                </div>
-                <br/>
-                Check out all our latest news <a href="/news">here</a>
-            </div>
-            <div class="span4">
-
-                <h2>Class Times</h2>
-                <table class="timetable">
-                    <tr>
-                        <td>
-                            Wednesday
-                        </td>
-                        <td>
-                            6:00 - 6:30
-                        </td>
-                        <td>
-                            TKD Kids
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        </td>
-                        <td>
-                            6:30 - 7:30
-                        </td>
-                        <td>
-                            TKD Juniors
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        </td>
-                        <td>
-                            7:30 - 8:30
-                        </td>
-                        <td>
-                            TKD Advanced - Seniors
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Friday
-                        </td>
-                        <td>
-                            6:30 - 7:30
-                        </td>
-                        <td>
-                            TKD Juniors
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                        </td>
-                        <td>
-                            7:30 - 8:30
-                        </td>
-                        <td>
-                            TKD Advanced - Seniors
-                        </td>
-                    </tr>
-                </table>
-
-            </div>
-
-
-        </div>
-
-
-
-
+    <div class="span12">
+        <p>
+            Rush Taekwon-Do School opened its door for the first time on the 9th January 2007 following are some of our first pictures.
+        </p>
+        <center>
+        <img src="/images/history1.png"/>
+            <br/>
+            <br/>
+        <img src="/images/history2.png"/>
+            <p>1st Grading June 2007</p>
+            <br/>
+            <br/>
+        <img src="/images/history3.png"/>
+            <p>Class January 2007</p>
+            <br/>
+            <br/>
+        </center>
     </div>
-
-    <div class="span4" style="margin-top: 20px; margin-bottom: 20px;">
-        <div class="fb-like-box" data-href="https://www.facebook.com/pages/Rush-Taekwon-Do-School/1412133912340014" data-width="292" data-show-faces="true" data-header="true" data-stream="true" data-show-border="true"></div>
-    </div>
-
-
-
 </div>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=279278035485505";
-    fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
 
 <!-- Footer
 
@@ -375,18 +241,6 @@
 <script src="/javascripts/audio.min.js"></script>
 <!-- audio player -->
 <script src="/javascripts/prettify.js"></script>
-<script src="/javascripts/camera.min.js"></script><!-- Camera slider -->
-<!-- YOU CAN REMOVE IT // it's associated with shortcodes preview boxes -->
-<script>
-    jQuery(function(){
-        jQuery('#camera_wrap_2').camera({
-            height: '300px',
-            loader: 'bar',
-            pagination: false,
-            thumbnails: false
-        });
-    });
-</script>
 
 <script src="/javascripts/custom.js"></script>
 <!-- All scripts that shuold be on html file collected here -->
